@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "Playwright_With_TypeScript-1",
+			"path": "../../Playwright_With_TypeScript-1"
+		}
+	],
+	"settings": {}
+}

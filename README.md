@@ -1,7 +1,5 @@
 # 🏗️ Enterprise E2E Framework: Playwright & TypeScript
 
-[![Playwright CI](https://github.com/IndeewaraC/Playwright_With_TypeScript/actions/workflows/playwright.yml/badge.svg)](#) *(Note: Update with your actual repo link)*
-
 ## 💡 TL;DR & Business Value
 **The Problem:** Unstructured UI automation scripts quickly become unmaintainable technical debt as an application scales, leading to flaky tests, false positives, and slowed release cycles.
 **The Solution:** This project demonstrates an enterprise-grade End-to-End (E2E) testing architecture. The implementation of **TypeScript** ensures strict compile-time type safety, drastically reducing runtime errors. Combined with the **Page Object Model (POM)** and **CI/CD integration**, this framework is designed for long-term maintainability and automated continuous testing.
